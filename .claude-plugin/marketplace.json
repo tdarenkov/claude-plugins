@@ -1,0 +1,11 @@
+{
+  "name": "tdarenkov",
+  "owner": {"name": "tdarenkov"},
+  "plugins": [
+    {
+      "name": "parallel-kit",
+      "source": {"source": "github", "repo": "tdarenkov/parallel-kit"},
+      "description": "Parallel, set up for agents: one lookup that keeps web excerpts out of your context, a router to the right Parallel tool, briefs for paid runs, and a guard so subagents can search but cannot spend. After install, run /parallel-kit:setup"
+    }
+  ]
+}
