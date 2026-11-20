@@ -1,6 +1,6 @@
 # tdarenkov's Claude Code plugins
 
-I'm tdarenkov. My focus is on making AI more frictionless and easier for people to use, building on the AI tools that already exist. These are the Claude Code plugins I build for my own daily work, published in case they help you too.
+My focus is on making AI tools more frictionless and easier for self-taught people like me to use. These are the Claude Code plugins I build for my own daily work, published in case they help you too.
 
 ## Install
 
